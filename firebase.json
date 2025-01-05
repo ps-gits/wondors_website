@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "/wondors_webs",
+    "public": "wondors_webs",
     "ignore": [
       "firebase.json",
       "**/.*",
