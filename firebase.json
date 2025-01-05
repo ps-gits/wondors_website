@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "wondors_webs",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
